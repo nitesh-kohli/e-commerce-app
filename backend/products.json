@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "description": "100% cotton, size M",
+    "price": 499,
+    "image": "tshirt1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Black Hoodie",
+    "description": "Warm and cozy",
+    "price": 999,
+    "image": "hoodie.jpg"
+  }
+]
